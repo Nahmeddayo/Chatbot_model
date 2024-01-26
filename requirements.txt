@@ -70,3 +70,4 @@ Werkzeug==2.3.6
 wrapt==1.15.0
 zipp==3.15.0
 gunicorn==19.7.1
+flask==3.0.1
